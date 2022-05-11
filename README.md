@@ -1,2 +1,5 @@
-# calcul_intensif_test_1
-Quelques fonctions de Calcul intensif
+# Exercices du Cours de Calcul intensif
+
+## Premiere partie: introduction au calcul intensif
+
+Quelques fonctions de Calcul intensif 
